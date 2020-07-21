@@ -1,0 +1,12 @@
+[submodule "warsawjs-workshop-46-piotrek"]
+	path = warsawjs-workshop-46-piotrek
+	url = git@github.com:MarcinSulowski/warsawjs-workshop-46-piotrek.git
+[submodule "warsawjs-workshop-45-own-react"]
+	path = warsawjs-workshop-45-own-react
+	url = git@github.com:MarcinSulowski/warsawjs-workshop-45-own-react.git
+[submodule "warsawjs-workshop-43"]
+	path = warsawjs-workshop-43
+	url = git@github.com:MarcinSulowski/warsawjs-workshop-43.git
+[submodule "warsawjs-workshop-39-car-rental"]
+	path = warsawjs-workshop-39-car-rental
+	url = git@github.com:MarcinSulowski/warsawjs-workshop-39-car-rental.git
